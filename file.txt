@@ -1,2 +1,3 @@
 this is my file 1
 error
+this is new line
